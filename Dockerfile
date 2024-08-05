@@ -1,6 +1,6 @@
 FROM openjdk:11-jdk-slim-buster
 
-# Just matched `app/build.gradle`
+# Just matched 'app/build.gradle'
 ENV ANDROID_COMPILE_SDK "30"
 
 # Just matched `app/build.gradle`
